@@ -1,15 +1,13 @@
-<img src="https://images.cooltext.com/5571429.png" width="318" height="86" alt=logo"/>
-
 # Surfur
 
-Surfur is a modern web browser that uses little to no CPU or RAM while acting and looking just like google chrome.
-
-# Images
+Surfur is the fastest web browser with a chrome like design and awesome functionality.
 
 ![Home Page](ss.png)
 
-# Credits
+## Credits
+Made By [Payson Holmes](https://github.com/P-DennyGamingYT/)
 
-Made By [[YT]P-DennyGaming#0001](https://discord.com/users/820680923887566868/)
+Please make sure to update tests as appropriate.
 
-NOTE: SURFUR IS IN THE ALPHA STAGE AND BUGS ARE EXPECTED!
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
