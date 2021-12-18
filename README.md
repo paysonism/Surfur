@@ -4,10 +4,10 @@ Surfur is the fastest web browser with a chrome like design and awesome function
 
 ![Home Page](ss.png)
 
-## Credits
+## Contributing
 Made By [Payson Holmes](https://github.com/P-DennyGamingYT/)
 
-Please make sure to update tests as appropriate.
+If you would like to contribute to the project, please email me your version at [paysonholmes@gmail.com](mailto:paysonholmes@gmail.com)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
