@@ -1,4 +1,4 @@
-<a href="https://P-DennyGamingYT.github.io/Surfur"><img src="https://images.cooltext.com/5571429.png" width="318" height="86" alt=logo"/></a>
+<img src="https://images.cooltext.com/5571429.png" width="318" height="86" alt=logo"/>
 
 # Surfur
 
